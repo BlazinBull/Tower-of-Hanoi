@@ -41,4 +41,4 @@ python3 towers_of_hanoi.py 3      # specify disc count (1–8)
 
 # Demo
 
-![Demo](Output_Demo.gif)
+![Demo](Demo.gif)
