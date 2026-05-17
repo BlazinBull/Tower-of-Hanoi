@@ -38,3 +38,7 @@ python3 towers_of_hanoi.py 3      # specify disc count (1–8)
 - **Recursion** — base case + recursive leap of faith (`hanoi`)
 - **Iteration** — render loop, move log (`render`, `print_summary`)
 - **Optimal moves** — always solves in exactly `2ⁿ − 1` moves
+
+# Demo
+
+![Demo](Output_Demo.gif)
